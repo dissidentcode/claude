@@ -1,4 +1,4 @@
-# TÂCHES Claude Code Resources
+# Claude Code Resources
 
 A growing collection of custom Claude Code resources built for real workflows.
 
@@ -213,12 +213,4 @@ Commands: `/debug`
 
 **Other tools:** The [create-meta-prompts](#create-meta-prompts-1) skill and `/create-prompt` + `/run-prompt` commands are available for custom Claude→Claude pipelines that don't fit the project planning structure.
 
----
 
-More resources coming soon.
-
----
-
-**Community Ports:** [OpenCode](https://github.com/stephenschoettler/taches-oc-prompts)
-
-—TÂCHES
